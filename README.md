@@ -1,0 +1,1 @@
+ruby scrapper.rb https://www.petsonic.com/snacks-huesos-para-perros/ goods.csv
